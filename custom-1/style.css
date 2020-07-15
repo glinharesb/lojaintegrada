@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    background: #fff !important;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.busca {
+    background-color: #fff !important;
+    border: none !important;
+}
+
+.pagamento-selos {
+    background: none !important;
+}
+
+.nivel-um {
+    background-color: #F3F3F3 !important;
+}
+
+.menu .titulo {
+    color: #000066 !important;
+}
+
+.conteudo-topo .busca-mobile {
+    background-color: #fff !important;
+}
+
+.acoes-produto-responsiva {
+    position: static !important;
+}
+
+.acoes-conta>li i {
+    background-color: #fff !important;
+    color: #000 !important;
+}
+
+.conteiner-principal .conteiner {
+    box-shadow: none !important;
+}
+
+#rodape .institucional {
+    height: 415px !important;
+}
+
+@media only screen and (max-width: 767px) #rodape .institucional {
+    background-image: none !important;
+}

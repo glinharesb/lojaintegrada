@@ -1,0 +1,2 @@
+document.getElementsByClassName("span4 links-rodape links-rodape-categorias")[0].remove();
+document.querySelectorAll("div[style='min-height: 30px; text-align: center; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; float: left; opacity: 1 !important; display: block !important; visibility: visible !important; height: 40px !important; width: 100% !important; margin: 0 !important; position: static !important;']")[0].remove();
